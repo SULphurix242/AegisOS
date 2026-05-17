@@ -61,9 +61,6 @@ Install the framework and its dependencies natively:
 git clone https://github.com/yourusername/aegisos.git
 cd aegisos
 
-# Core installation (Terminal UI only)
-pip install -e .
-
 # Full installation (Terminal UI + HTTP Proxy Support)
 pip install -e ".[proxy]"
 ```
