@@ -2,7 +2,7 @@
 name = "aegisos"
 version = "1.0.0"
 description = "AI Agent Immune System — Terminal UI"
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 dependencies = [
     "textual>=0.61.0",
     "rich>=13.7.0",
